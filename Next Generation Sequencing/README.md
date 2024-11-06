@@ -36,7 +36,7 @@ The course covered a broad range of topics, from an introduction to sequencing t
 
 **Program**: Master in Bioinformatics and Computational Biology
 
-### Assignment 1​:
+### [Assignment 1] (Next Generation Sequencing/Assignment 1.pdf)​:
 
 Downloaded sequencing reads from the SRA Toolkit and prepared them as FASTQ files with split files for paired-end reads.
 Performed quality checks using FastQC to assess read quality, examining base sequence quality, sequence content, and adapter content.
