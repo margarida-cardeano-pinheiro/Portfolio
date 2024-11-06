@@ -36,25 +36,25 @@ The course covered a broad range of topics, from an introduction to sequencing t
 
 **Program**: Master in Bioinformatics and Computational Biology
 
-### [Assignment 1](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/64412d2de4f15c6f58544670c6da020c41f7c091/Next%20Generation%20Sequencing/Assignment%201.pdf)​:
+### [Assignment 1:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/64412d2de4f15c6f58544670c6da020c41f7c091/Next%20Generation%20Sequencing/Assignment%201.pdf)​
 
 Downloaded sequencing reads from the SRA Toolkit and prepared them as FASTQ files with split files for paired-end reads.
 Performed quality checks using FastQC to assess read quality, examining base sequence quality, sequence content, and adapter content.
 Used Trimmomatic for adapter and low-quality base removal, followed by re-running FastQC to confirm improved read quality.
 Converted FASTQ to FASTA format using SED commands and processed data with AWK for various conditions based on quality.
 
-### Assignment 2​:
+### [Assignment 2:](​https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/91ad5653df385f4abf6a92b61e9262f59c630f1a/Next%20Generation%20Sequencing/Assignment%202.pdf)
 
 Processed BAM files to assess quality control (QC), read pairing, and alignment status using SAMtools.
 Applied SAM flags for filtering based on reverse strand alignment, unmapped reads, and duplicate removal.
 Conducted sorting and duplicate marking, then counted reads to confirm duplicate removal.
 Analyzed CIGAR strings to interpret alignment and base matching, mismatches, and indels.
 
-### Assignment 3:
+### [Assignment 3:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/91ad5653df385f4abf6a92b61e9262f59c630f1a/Next%20Generation%20Sequencing/Assignment%203.pdf)
 Assembled and annotated the transcriptome for S. pombe, merging expression data and filtering transcripts based on TPM.
 Used IGV to visualize specific genes within the genome and identify corresponding proteins, such as heat shock protein and alpha-glucosidase.
 
-### Assignment​ 4:
+### [Assignment​ 4:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/91ad5653df385f4abf6a92b61e9262f59c630f1a/Next%20Generation%20Sequencing/Assignment%204.pdf)
 
 Conducted variant calling with SAM/BAM files, removing duplicates and filtering variants.
 Performed variant quality filtering, calculated variant counts, and assessed allele frequency.
