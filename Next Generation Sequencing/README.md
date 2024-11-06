@@ -43,7 +43,7 @@ Performed quality checks using FastQC to assess read quality, examining base seq
 Used Trimmomatic for adapter and low-quality base removal, followed by re-running FastQC to confirm improved read quality.
 Converted FASTQ to FASTA format using SED commands and processed data with AWK for various conditions based on quality.
 
-### [Assignment 2:](​https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/91ad5653df385f4abf6a92b61e9262f59c630f1a/Next%20Generation%20Sequencing/Assignment%202.pdf)
+### [Assignment 2:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/3a03ee846eba92bd7559d7fae3a669bcbeb8c6a9/Next%20Generation%20Sequencing/Assignment%202.pdf)
 
 Processed BAM files to assess quality control (QC), read pairing, and alignment status using SAMtools.
 Applied SAM flags for filtering based on reverse strand alignment, unmapped reads, and duplicate removal.
