@@ -11,4 +11,3 @@ Through hands-on research in genomics and health informatics, I’ve contributed
 Feel free to reach out to discuss potential collaborations or opportunities:
 - **Email**: margarida.cardeano@hotmail.com
 - **LinkedIn**: [Margarida Pinheiro](https://www.linkedin.com/in/margarida-cardeano-pinheiro/)
-- **GitHub**: [@JoaoTomasMotaCunha](https://github.com/JoaoTomasMotaCunha)
