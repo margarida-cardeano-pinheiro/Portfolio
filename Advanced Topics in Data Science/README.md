@@ -26,7 +26,7 @@ The course **Advanced Topics in Data Science** focused on the identification and
 
 ---
 
-## The Final Project: Chicago Crimes Analysis
+## Chicago Crimes Project
 ### Objective:
 The project aimed to analyze and predict crime patterns in Chicago over six years (2017-2023) using a subset of the Chicago Crimes dataset. This was achieved by combining exploratory data analysis (EDA) with machine learning techniques.
 
@@ -76,6 +76,6 @@ The project aimed to analyze and predict crime patterns in Chicago over six year
 - **Assignment Details:** [Assignment.pdf](./Assignment.pdf)
 - **Exploratory Data Analysis Code (R):** [code_data_exploration_visualization.R](./code_data_exploration_visualization.R)
 - **Machine Learning Code (Python):** [code_machine_learning_modeling.py](./code_machine_learning_modeling.py)
-- **Final Report:** [Project_Report.pdf](./Project_Report.pdf)
+- **Final Report:** [Project_Report.pdf](./Report.pdf)
 
 For further insights and technical details, please refer to the project report.
