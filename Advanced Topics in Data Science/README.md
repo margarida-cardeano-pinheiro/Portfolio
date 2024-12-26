@@ -1,42 +1,81 @@
 # Advanced Topics in Data Science
 
-## Course Objectives
+## Course Overview
+The course **Advanced Topics in Data Science** focused on the identification and application of data mining techniques to extract meaningful insights from diverse data sources. By combining theoretical concepts and practical implementations, the course enabled me to understand, implement, and evaluate advanced data mining models and techniques, while honing my programming skills in R and Python.
 
-The primary goal of this course is to equip students with the ability to identify and apply data mining techniques for knowledge extraction from diverse data sources. Focus areas include association rules, sequence mining, recommendation systems, link analysis, information retrieval, and text mining.
+---
 
-## Learning Outcomes and Skills Acquired
+## Key Learning Outcomes
+### Skills Developed:
+1. **Problem-Solving with Data Mining Techniques:**
+   - I learned to recognize and specify problems solvable through various data mining techniques, including association rule mining, sequential pattern mining, and text mining.
 
-By the end of this course, I gained proficiency in:
+2. **Data Preprocessing:**
+   - I gained proficiency in cleaning, transforming, and preparing datasets for algorithms and models, ensuring high-quality inputs for analysis.
 
-1. **Association Pattern Mining:**
-Learned to apply the Apriori and FP-Growth algorithms for discovering frequent itemsets and association rules, and gained insights into summarizing and selecting relevant itemsets and rules.
+3. **Algorithm Implementation and Improvement:**
+   - I successfully implemented algorithms such as the Apriori and FP-Growth for association pattern mining and explored advanced techniques like PrefixSpan for sequential pattern mining.
+   - Additionally, I proposed modifications to existing algorithms to optimize performance.
 
-2. **Web Mining:**
-Developed skills in recommender systems, link analysis, and information retrieval to understand how data mining supports recommendations and information connections online.
+4. **Model Evaluation and Interpretation:**
+   - I evaluated models using key metrics (e.g., accuracy, precision, recall, and F1-score), ensuring actionable insights for decision-making.
 
-3. **Information Retrieval:**
-Mastered pre-processing, retrieval models, and evaluation techniques to enhance data retrieval efficiency and accuracy.
+5. **Programming Expertise:**
+   - I applied and expanded my skills in R and Python for data exploration, visualization, and predictive modeling.
+   - Specific tasks included developing visualizations with R (e.g., ggplot2, leaflet) and implementing machine learning models in Python (e.g., Decision Trees, Random Forest, AdaBoost).
 
-4. **Text Mining:**
-Acquired skills in document representation, clustering, classification, and sentiment/emotion analysis, allowing for effective data extraction from unstructured text sources.
+---
 
-5. **Outlier Mining:**
-Explored unsupervised, semi-supervised, and supervised techniques for identifying anomalies, understanding the challenges and techniques in detecting outliers.
+## The Final Project: Chicago Crimes Analysis
+### Objective:
+The project aimed to analyze and predict crime patterns in Chicago over six years (2017-2023) using a subset of the Chicago Crimes dataset. This was achieved by combining exploratory data analysis (EDA) with machine learning techniques.
 
-This course enhanced my ability to apply **R** and **RStudio** in data mining processes, from implementing algorithms to evaluating and improving models.
+### Key Deliverables:
+1. **Exploratory Data Analysis (EDA):**
+   - Cleaned and transformed the dataset by handling missing values, removing duplicates, and creating new features (e.g., `time_of_day`, `quarter`, `week_day`).
+   - Produced insightful visualizations to identify trends in crime types, locations, and time periods.
+   - Implemented association rule mining to uncover co-occurring crime patterns and used link analysis to detect relationships between crime-related entities.
 
-## [Assignment:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/1f9fa5d64455b8a8063c7fc3421a76c6a901df1f/Advanced%20Topics%20in%20Data%20Science/Assignment.pdf)
+2. **Machine Learning Models:**
+   - Trained and evaluated four machine learning models to predict arrests:
+     - Decision Tree
+     - Random Forest
+     - AdaBoost
+     - Bagging of Trees
+   - Balanced the dataset to handle class imbalance, resulting in fairer model evaluation.
+   - Evaluated models on training/testing sets and a hidden validation set using metrics such as accuracy, precision, recall, and F1-score.
 
-For the Advanced Topics in Data Science course, I worked on a comprehensive analysis of the Chicago Crimes dataset from 2017 to 2023. The project had two main objectives:
+3. **Results Achieved:**
+   - Identified key patterns and correlations in Chicago crimes, leading to actionable insights about high-risk locations and time periods.
+   - Developed predictive models with high performance on unseen data, demonstrating their potential for real-world applications in crime prevention and resource allocation.
 
-1. **Data Exploration and Analysis:** I conducted an exploratory data analysis (EDA) to understand patterns in crime occurrences, their locations, and times. This included:
+4. **Final Report:**
+   - Detailed the entire process in a comprehensive report, highlighting the methodology, insights, and results. The report can be consulted for further details on the project’s implementation and findings.
 
-   - Data cleaning and visualization for insights on crime trends.
-   - Identifying association rules to highlight common crime characteristics and co-occurring crime situations.
-   - Performing link analysis through a graph to explore relationships between different crime entities.
+---
 
-2. **Machine Learning Model Development:** Using insights from the EDA, I developed and evaluated four machine learning models to predict crime occurrences and specific characteristics. This involved:
+## Tools and Techniques
+### Programming Languages:
+- **R:** Used for exploratory data analysis, visualizations, association rule mining, and link analysis.
+- **Python:** Used for machine learning modeling, including data preprocessing, algorithm implementation, and model evaluation.
 
-   - Feature engineering to create more than eight meaningful features based on dataset analysis.
-   - Implementing four distinct algorithms, assessing them on metrics like accuracy and precision.
-   - The project deliverables included a detailed report (following the IEEE format), an electronic presentation, and the R code for analysis. Each step was documented, with motivations for feature selection, algorithm choices, and findings from model evaluations.
+### Libraries and Frameworks:
+- **R:** tidyverse, ggplot2, leaflet, arules, igraph.
+- **Python:** pandas, numpy, scikit-learn.
+
+---
+
+## Achievements and Results
+- Successfully explored and visualized complex datasets, generating meaningful insights.
+- Designed and implemented high-performing machine learning models to predict arrests.
+- Demonstrated the ability to preprocess data, evaluate models rigorously, and communicate findings effectively.
+
+---
+
+## Links to Resources
+- **Assignment Details:** [Assignment.pdf](./Assignment.pdf)
+- **Exploratory Data Analysis Code (R):** [code_data_exploration_visualization.R](./code_data_exploration_visualization.R)
+- **Machine Learning Code (Python):** [code_machine_learning_modeling.py](./code_machine_learning_modeling.py)
+- **Final Report:** [Project_Report.pdf](./Project_Report.pdf)
+
+For further insights and technical details, please refer to the project report.
