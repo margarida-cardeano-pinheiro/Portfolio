@@ -25,7 +25,7 @@ Explored unsupervised, semi-supervised, and supervised techniques for identifyin
 
 This course enhanced my ability to apply **R** and **RStudio** in data mining processes, from implementing algorithms to evaluating and improving models.
 
-## [Assignment:](Advanced Topics in Data Science/Assignment.pdf)
+## ([Assignment:](https://github.com/margarida-cardeano-pinheiro/Portfolio/blob/1f9fa5d64455b8a8063c7fc3421a76c6a901df1f/Advanced%20Topics%20in%20Data%20Science/Assignment.pdf))
 
 For the Advanced Topics in Data Science course, I worked on a comprehensive analysis of the Chicago Crimes dataset from 2017 to 2023. The project had two main objectives:
 
