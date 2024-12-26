@@ -76,6 +76,6 @@ The project aimed to analyze and predict crime patterns in Chicago over six year
 - **Assignment Details:** [Assignment.pdf](./Assignment.pdf)
 - **Exploratory Data Analysis Code (R):** [code_data_exploration_visualization.R](./code_data_exploration_visualization.R)
 - **Machine Learning Code (Python):** [code_machine_learning_modeling.py](./code_machine_learning_modeling.py)
-- **Final Report:** [Project_Report.pdf](./Report)
+- **Final Report:** [Project_Report.pdf](./Report.pdf)
 
 For further insights and technical details, please refer to the project report.
