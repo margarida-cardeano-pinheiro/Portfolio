@@ -40,5 +40,3 @@ For the Advanced Topics in Data Science course, I worked on a comprehensive anal
    - Feature engineering to create more than eight meaningful features based on dataset analysis.
    - Implementing four distinct algorithms, assessing them on metrics like accuracy and precision.
    - The project deliverables included a detailed report (following the IEEE format), an electronic presentation, and the R code for analysis. Each step was documented, with motivations for feature selection, algorithm choices, and findings from model evaluations.
-
-For more detailed guidelines on the project requirements, refer to the [provided project document]().
